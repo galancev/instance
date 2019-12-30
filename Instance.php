@@ -1,10 +1,10 @@
 <?php
 
-namespace Galantcev\Func;
+namespace EG\Func;
 
 /**
  * Trait Instance
- * @package Func
+ * @package EG\Func
  */
 trait Instance
 {
